@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+<!--    settings、TypeAlias、Pluging的设置，迁移至MapperConfig02的SqlSessionFactoryBean加入ioc容器的时候设置-->
+<!--    Druid连接池，Mapper指定放在DataSourceConfig配置类、MapperConfig02的MapperScannerConfigurer加入ioc容器是设置-->
+</configuration>
